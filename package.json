@@ -1,0 +1,22 @@
+{
+  "name": "cordova-calllog-plugin",
+  "version": "1.0.0",
+  "description": "Cordova-CallLog-Plugin ======================",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-control-group/Cordova-CallLog-Plugin.git"
+  },
+  "author": "the-control-group <adam@thecontrolgroup.com> (http://thecontrolgroup.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-control-group/Cordova-CallLog-Plugin/issues"
+  },
+  "homepage": "https://github.com/the-control-group/Cordova-CallLog-Plugin#readme"
+}
